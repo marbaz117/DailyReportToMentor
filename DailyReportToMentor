@@ -145,6 +145,38 @@ Day24- 25.2.2026
             * Start learning the spring security mainly building the login page and signup page how it is works internally in case
               of spring boot classes and interfaces. 
 
+Day25- 26.2.2026
 
+      Task Completed-
+            * Learn and implement the Docker for making a small basic Project On which has the technology used Mysql and spring both 
+              used with the help of docker.
 
+Day26- 27.2.2026
 
+      Task Completed-
+            * Making Backend Api and Logic Of a Ecommerce website and taking the frontend from the telusko and write the backend as
+              per frontend and add the axios also.
+
+Day27- 2.3.2026
+
+      Task Completed-
+            * Making the Contoller and service and whole skeleton of the Product By using the core java Concepts and using this apply
+              the operation as per need.
+
+Day28- 3.3.2026
+
+      Task Completed-
+            * Apply The CRUD operation On the DataBase of the Project Expense of customer by using the Concept of JDBC connection
+              as per course of IEP.
+
+Day29- 4.3.2026
+
+      Task Completed-
+            * Integrate the SonarQube in the Project and also adding the Jacoco for code Coverage in expense CRUD operation which
+              is used for testing in this project.
+
+Day30- 5.3.2026
+
+      Task Completed-
+            * Learning few Concepts of Microservices and gather the knowledge of Learning the Hard level projects assigned by 
+              mentor in course.
